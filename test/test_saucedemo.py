@@ -35,6 +35,7 @@ def test_login(driver):
 def test_catalogo(driver):  
    #indica si hay alguna card de los items de la lista
     products = validar_catalogo(driver)
+    #Indica todos los items de la lista
     for producto in products:
         nombre = producto.find_element(By.CLASS_NAME, 'inventory_item_name').text
         precio = producto.find_element(By.CLASS_NAME, 'inventory_item_price').text
