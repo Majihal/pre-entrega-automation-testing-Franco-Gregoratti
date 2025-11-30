@@ -1,0 +1,166 @@
+17:39:08 INFO root – TEST ENCADENADOS: GET, POST, PUT, PATCH, DELETE
+17:39:08 INFO root – 1.GET OBTENER USUARIOS
+17:42:31 INFO root – TEST ENCADENADOS: GET, POST, PUT, PATCH, DELETE
+17:42:31 INFO root – 1.GET OBTENER USUARIOS
+17:44:44 INFO root – TEST ENCADENADOS: GET, POST, PUT, PATCH, DELETE
+17:44:44 INFO root – 1.GET OBTENER USUARIOS
+17:44:51 INFO root – TEST ENCADENADOS: GET, POST, PUT, PATCH, DELETE
+17:44:51 INFO root – 1.GET OBTENER USUARIOS
+17:48:25 INFO root – TEST ENCADENADOS: GET, POST, PUT, PATCH, DELETE
+17:48:25 INFO root – 1.GET OBTENER USUARIOS
+18:13:55 INFO root – TEST ENCADENADOS: GET, POST, DELETE
+18:13:55 INFO root – 1. GET - Obtener usuarios
+18:13:55 INFO root – GET Status code: 200
+18:13:55 INFO root – Cantidad de usuarios obtenidos: 10
+18:13:55 INFO root – 2. POST - Crear usuario
+18:13:56 INFO root – POST Status code: 201
+18:13:56 INFO root – Usuario creado: {'name': 'Derrick Jackson', 'email': 'reedaustin@example.org', 'phone': '001-425-394-1961x998', 'id': 11}
+18:13:56 INFO root – ID del usuario creado: 11
+18:13:56 INFO root – 3. DELETE - Eliminar usuario creado
+18:13:56 INFO root – DELETE Status code: 200
+18:13:56 INFO root – DELETE response body: {}
+18:27:25 INFO WDM – ====== WebDriver manager ======
+18:27:25 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:26 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:26 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:27 INFO WDM – WebDriver version 142.0.7444.175 selected
+18:27:27 INFO WDM – Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+18:27:27 INFO WDM – About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+18:27:27 INFO WDM – Driver downloading response is 200
+18:27:27 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:28 INFO WDM – Driver has been saved in cache [C:\Users\Franco\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+18:27:29 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:27:30 INFO LoginPage – Iniciando login con usuario: standard_user
+18:27:30 INFO LoginPage – Ingresando nombre de usuario...
+18:27:30 INFO LoginPage – Ingresando contraseña...
+18:27:30 INFO LoginPage – Haciendo click en el botón de login
+18:27:30 INFO LoginPage – Login enviado
+18:27:32 INFO WDM – ====== WebDriver manager ======
+18:27:33 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:33 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:34 INFO WDM – Driver [C:\Users\Franco\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+18:27:35 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:27:35 INFO LoginPage – Iniciando login con usuario: chuynh
+18:27:35 INFO LoginPage – Ingresando nombre de usuario...
+18:27:35 INFO LoginPage – Ingresando contraseña...
+18:27:35 INFO LoginPage – Haciendo click en el botón de login
+18:27:35 INFO LoginPage – Login enviado
+18:27:37 INFO WDM – ====== WebDriver manager ======
+18:27:38 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:38 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:38 INFO WDM – Driver [C:\Users\Franco\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+18:27:39 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:27:40 INFO LoginPage – Iniciando login con usuario: locked_out_user
+18:27:40 INFO LoginPage – Ingresando nombre de usuario...
+18:27:40 INFO LoginPage – Ingresando contraseña...
+18:27:40 INFO LoginPage – Haciendo click en el botón de login
+18:27:40 INFO LoginPage – Login enviado
+18:27:42 INFO WDM – ====== WebDriver manager ======
+18:27:43 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:43 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:43 INFO WDM – Driver [C:\Users\Franco\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+18:27:44 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:27:45 INFO LoginPage – Iniciando login con usuario: slewis
+18:27:45 INFO LoginPage – Ingresando nombre de usuario...
+18:27:45 INFO LoginPage – Ingresando contraseña...
+18:27:45 INFO LoginPage – Haciendo click en el botón de login
+18:27:45 INFO LoginPage – Login enviado
+18:27:47 INFO WDM – ====== WebDriver manager ======
+18:27:47 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:48 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:27:48 INFO WDM – Driver [C:\Users\Franco\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+18:27:49 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:27:49 INFO LoginPage – Iniciando login con usuario: francis44
+18:27:49 INFO LoginPage – Ingresando nombre de usuario...
+18:27:49 INFO LoginPage – Ingresando contraseña...
+18:27:49 INFO LoginPage – Haciendo click en el botón de login
+18:27:49 INFO LoginPage – Login enviado
+18:31:43 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:31:43 INFO LoginPage – Iniciando login con usuario: gbeard
+18:31:43 INFO LoginPage – Ingresando nombre de usuario...
+18:31:43 INFO LoginPage – Ingresando contraseña...
+18:31:43 INFO LoginPage – Haciendo click en el botón de login
+18:31:43 INFO LoginPage – Login enviado
+18:31:47 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:31:48 INFO LoginPage – Iniciando login con usuario: zgarcia
+18:31:48 INFO LoginPage – Ingresando nombre de usuario...
+18:31:48 INFO LoginPage – Ingresando contraseña...
+18:31:48 INFO LoginPage – Haciendo click en el botón de login
+18:31:48 INFO LoginPage – Login enviado
+18:31:52 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:31:52 INFO LoginPage – Iniciando login con usuario: locked_out_user
+18:31:52 INFO LoginPage – Ingresando nombre de usuario...
+18:31:52 INFO LoginPage – Ingresando contraseña...
+18:31:52 INFO LoginPage – Haciendo click en el botón de login
+18:31:52 INFO LoginPage – Login enviado
+18:31:57 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:31:57 INFO LoginPage – Iniciando login con usuario: zwilliams
+18:31:57 INFO LoginPage – Ingresando nombre de usuario...
+18:31:57 INFO LoginPage – Ingresando contraseña...
+18:31:57 INFO LoginPage – Haciendo click en el botón de login
+18:31:57 INFO LoginPage – Login enviado
+18:32:02 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:32:02 INFO LoginPage – Iniciando login con usuario: richardsdavid
+18:32:02 INFO LoginPage – Ingresando nombre de usuario...
+18:32:02 INFO LoginPage – Ingresando contraseña...
+18:32:02 INFO LoginPage – Haciendo click en el botón de login
+18:32:02 INFO LoginPage – Login enviado
+18:39:02 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:39:03 INFO LoginPage – Iniciando login con usuario: standard_user
+18:39:03 INFO LoginPage – Ingresando nombre de usuario...
+18:39:03 INFO LoginPage – Ingresando contraseña...
+18:39:03 INFO LoginPage – Haciendo click en el botón de login
+18:39:03 INFO LoginPage – Login enviado
+18:39:20 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:39:20 INFO LoginPage – Iniciando login con usuario: standard_user
+18:39:20 INFO LoginPage – Ingresando nombre de usuario...
+18:39:20 INFO LoginPage – Ingresando contraseña...
+18:39:20 INFO LoginPage – Haciendo click en el botón de login
+18:39:21 INFO LoginPage – Login enviado
+18:39:47 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:39:47 INFO LoginPage – Iniciando login con usuario: standard_user
+18:39:47 INFO LoginPage – Ingresando nombre de usuario...
+18:39:48 INFO LoginPage – Ingresando contraseña...
+18:39:48 INFO LoginPage – Haciendo click en el botón de login
+18:39:48 INFO LoginPage – Login enviado
+18:40:01 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:40:02 INFO LoginPage – Iniciando login con usuario: brownronald
+18:40:02 INFO LoginPage – Ingresando nombre de usuario...
+18:40:02 INFO LoginPage – Ingresando contraseña...
+18:40:02 INFO LoginPage – Haciendo click en el botón de login
+18:40:02 INFO LoginPage – Login enviado
+18:40:06 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:40:06 INFO LoginPage – Iniciando login con usuario: baileyricardo
+18:40:06 INFO LoginPage – Ingresando nombre de usuario...
+18:40:06 INFO LoginPage – Ingresando contraseña...
+18:40:06 INFO LoginPage – Haciendo click en el botón de login
+18:40:06 INFO LoginPage – Login enviado
+18:40:11 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:40:11 INFO LoginPage – Iniciando login con usuario: wyoder
+18:40:11 INFO LoginPage – Ingresando nombre de usuario...
+18:40:11 INFO LoginPage – Ingresando contraseña...
+18:40:11 INFO LoginPage – Haciendo click en el botón de login
+18:40:11 INFO LoginPage – Login enviado
+18:40:15 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:40:16 INFO LoginPage – Iniciando login con usuario: gravesalyssa
+18:40:16 INFO LoginPage – Ingresando nombre de usuario...
+18:40:16 INFO LoginPage – Ingresando contraseña...
+18:40:16 INFO LoginPage – Haciendo click en el botón de login
+18:40:16 INFO LoginPage – Login enviado
+18:40:20 INFO LoginPage – Abrir página de login: https://www.saucedemo.com/
+18:40:20 INFO LoginPage – Iniciando login con usuario: locked_out_user
+18:40:20 INFO LoginPage – Ingresando nombre de usuario...
+18:40:20 INFO LoginPage – Ingresando contraseña...
+18:40:21 INFO LoginPage – Haciendo click en el botón de login
+18:40:21 INFO LoginPage – Login enviado
+18:40:24 INFO root – TEST ENCADENADOS: GET, POST, DELETE
+18:40:24 INFO root – 1. GET - Obtener usuarios
+18:40:24 INFO root – GET Status code: 200
+18:40:24 INFO root – Cantidad de usuarios obtenidos: 10
+18:40:24 INFO root – 2. POST - Crear usuario
+18:40:25 INFO root – POST Status code: 201
+18:40:25 INFO root – Usuario creado: {'name': 'Angela Warner', 'email': 'annasilva@example.org', 'phone': '4093927891', 'id': 11}
+18:40:25 INFO root – ID del usuario creado: 11
+18:40:25 INFO root – 3. DELETE - Eliminar usuario creado
+18:40:25 INFO root – DELETE Status code: 200
+18:40:25 INFO root – DELETE response body: {}
